@@ -1,0 +1,19 @@
+{
+	"schemaVersion": 1,
+	"id": "hc-mob-tweaks",
+	"version": "${version}",
+	"name": "Hardcore Mob Tweaks",
+	"description": "This mod introduces some mob tweaks from BTW.",
+	"authors": [
+		"Tetro48"
+	],
+	"license": "CC0-1.0",
+	"environment": "*",
+	"mixins": [
+		"hc-mob-tweaks.mixins.json"
+	],
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": ">=1.21"
+	}
+}
