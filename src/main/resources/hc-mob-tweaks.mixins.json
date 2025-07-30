@@ -2,6 +2,7 @@
 	"required": true,
 	"package": "tetro48.hc_mob_tweaks.mixin",
 	"mixins": [
+		"EntityTypeMixin",
 		"SpawnGroupMixin",
 		"WanderAroundGoalMixin"
 	],
